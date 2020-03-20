@@ -2,9 +2,12 @@
 
 COVID-19 info posters made by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center (@THE_BMC). 
 We currently have:
- -- 5 Tips for Everyone
- -- What to do if you're waiting for a COVID test result
- -- What to do if you have tested positive for COVID
+
+-- 5 Tips for Everyone
+
+-- What to do if you're waiting for a COVID test result
+
+-- What to do if you have tested positive for COVID
 
 Please share widely.
 
