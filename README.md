@@ -31,4 +31,6 @@ How to help:
    6) Submit your image to the repository using the 'issues' option. 
    7) Share your translated image with friends and family, on Twitter, Facebook, WhatsApp, Instagram, TikTok,etc.
 
+If you can help make any of these more accessible to individuals who need screen readers, please see here:  https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-us&rs=en-us&ad=us#PickTab=Windows
+
 All materials shared under a CC-BY-SA license.
