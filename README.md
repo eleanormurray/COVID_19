@@ -15,6 +15,8 @@ We currently have:
 
 -- What to do if someone you live with is sick with COVID symptoms
 
+-- What to expect if you are hospitalized
+
 
 Please share widely.
 
