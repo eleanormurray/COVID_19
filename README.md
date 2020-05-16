@@ -1,6 +1,7 @@
 # COVID_19
 
-COVID-19 info posters made by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center (@THE_BMC). 
+COVID-19 info posters made by Dr Ellie Murray in collaboration with Dr Benjamin Linas, Dr Charles Williams, and the Boston Medical Center (@THE_BMC). 
+
 We currently have:
 
 -- 5 Tips for Everyone
@@ -16,6 +17,12 @@ We currently have:
 -- What to do if someone you live with is sick with COVID symptoms
 
 -- What to expect if you are hospitalized
+
+-- The Buddy System
+
+-- Contact Tracing
+
+-- COVID for Kids
 
 
 Please share widely.
