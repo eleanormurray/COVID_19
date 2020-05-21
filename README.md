@@ -22,6 +22,10 @@ We currently have:
 
 -- Contact Tracing
 
+-- Safely handling packages and delivery items (with Julia Marcus)
+
+-- The COVID19 Spectrum of Risk (with Julia Marcus)
+
 -- COVID for Kids
 
 
