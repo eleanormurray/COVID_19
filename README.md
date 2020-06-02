@@ -3,25 +3,45 @@
 COVID-19 info posters made by Dr Ellie Murray in collaboration with Dr Benjamin Linas, Dr Charles Williams, the Boston Medical Center (@THE_BMC), and otheres. 
 
 The poster system has recently been overhauled to streamline recommendations. The current posters are: 
+
 -- 5 Tips for Everyone
+
 -- What to do if you have COVID19 symptoms
+
 -- What to do if you have a positive COVID19 test but no symptoms
+
 -- What to do if you've been exposed to COVID19 but don't (yet) have symptoms
+
 -- What to do if someone you live with is sick with COVID symptoms
+
 -- What to expect if you are hospitalized
+
 -- The Buddy System
+
 -- Contact Tracing
+
 -- Safely handling packages and delivery items (with Julia Marcus)
+
 -- The COVID19 Spectrum of Risk (with Julia Marcus)
+
 -- Harm reduction for protests (with Julia Marcus)
+
 -- Harm reduction for faith-based communities (with Lucy D'Agostino McGowan)
+
 -- COVID for Kids
 
+
+
 The following posters have been archived:
+
 -- What to do if you're waiting for a COVID test result
+
 -- What to do if you have tested positive for COVID
+
 -- What to do if you are feeling sick but haven't been (or can't get) tested
+
 -- What to do if you have been in contact with someone with known or suspected COVID
+
 
 
 Please share widely.
